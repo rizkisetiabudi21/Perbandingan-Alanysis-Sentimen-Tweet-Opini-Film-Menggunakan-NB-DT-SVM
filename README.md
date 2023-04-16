@@ -1,0 +1,2 @@
+# Perbandingan-Alanysis-Sentimen-Tweet-Opini-Film-Menggunakan-NB-DT-SVM
+Analisis sentimen tweet opini filmdilakukan dengan menggunakan teknik machine learning. Beberapa model machine learning yang dapat digunakan antara lain Naive Bayes, Decision Tree, dan Support Vector Machine (SVM). Model-machine learning tersebut diambil karena kualitas performa dan kepopularannya pada studi analisis sentimen.
